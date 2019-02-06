@@ -7,6 +7,6 @@ class Tentative {
      int x = 5;
      System.out.println(5);
     
-  } //end of main
-  } //end of clss
+  } // end of main
+  } // end of clss
  
