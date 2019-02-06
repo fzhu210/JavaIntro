@@ -4,6 +4,9 @@ class Tentative {
 
   public static void main(String[] args) { // always string
     
-     System.out.println("This should be working!");
-  } //end of main
-  } //end of clss
+     int x = 5;
+     System.out.println(5);
+    
+  } // end of main
+  } // end of clss
+ 
